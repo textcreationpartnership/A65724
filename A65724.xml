@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A call from God out of Egypt by his Son Christ the light of life, and this from the movings of the holy power, is sent for a visitation unto the seed of God in all professours, teachers and people through this nation and land of England / from a follower of the lamb, D.W.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65724</idno>
+            <idno type="STC">Wing W1746</idno>
+            <idno type="STC">ESTC R16364</idno>
+            <idno type="EEBO-CITATION">12280278</idno>
+            <idno type="OCLC">ocm 12280278</idno>
+            <idno type="VID">58683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 930:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A call from God out of Egypt by his Son Christ the light of life, and this from the movings of the holy power, is sent for a visitation unto the seed of God in all professours, teachers and people through this nation and land of England / from a follower of the lamb, D.W.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Dorothy White. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kingdom of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58683:1"/>
+            <pb facs="tcp:58683:1" rendition="simple:additions"/>
+            <p>A Call from GOD OUT OF EGYPT, By His SON CHRIST THE Light of Life; And this from the Movings of the Holy Power, is ſent for a VISITATION unto the SEED of GOD in all Profeſſours, Teachers and People through this Nation and Land of <hi>ENGLAND.</hi>
+            </p>
+            <p>From a Follower of the Lamb, <hi>D. W.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58683:2"/>
+            <pb n="3" facs="tcp:58683:2"/>
+            <head>A Call from GOD out of <hi>Egypt,</hi> &amp;c.</head>
+            <p>THe Day is dawned, and Light is riſen and broken forth of darkneſs, and Immortality and Life is brought again to light, and the Day from on high hath ſpringed, and is come to viſit you who are ſitting in darkneſs, and in the region and ſhadow of death, that you may come forth and walk in the Light. Whilſt you have the Light believe in it, that you may become the Children of the Day of God. And now is the Spirit of Truth come, according to the Promiſe of the Father; in the fulneſs of time he is come, <hi>to convince the world of Sin, of Righ<g ref="char:EOLhyphen"/>teouſneſs and of Judgment:</hi> So all muſt come to the manifeſtation of the Spirit of Truth <hi>within them,</hi> to be convinced thereby of their Judgment: And as all turn to the manifeſtation of the Light of Life, which hath long ſhined in darkneſs, but the dark<g ref="char:EOLhyphen"/>neſs could not comprehend it, this Light is given for a Leader, and for a Saviour unto all that are ſaved: This is the Goſpel that is now to be preached unto all Nations. The Day-ſtar is riſen, and the Light of the Day is come, and the <hi>Gentiles</hi> muſt be ga<g ref="char:EOLhyphen"/>thered into the Light of the Day of God; and this is the Day of gathering, wherein all Nations ſhall flock into the Fold of God's Everlaſting Reſt, as Doves into the windows: And bleſſed are all who hear and obey the Call of the Shepherd of <hi>Iſrael,</hi> who cal<g ref="char:EOLhyphen"/>leth his Sheep by name; and <hi>other Sheep have I,</hi> ſaith Chriſt, <hi>that are not of this Fold; and them will I bring alſo, and they ſhall be of one Fold, and have one Shepherd.</hi> And now is God gathering his Seed from the four winds of the Earth; ſo this is the mighty Day of God's Power, wherin he is bringing Deliverance to his Captives by a mighty Hand, and by an out-ſtretched Arm is the Lord God bringing Salvation to the loſt Sheep of the houſe of <hi>Iſrael,</hi> which he is coming to gather home: For all Nations have ſinned, and come ſhort of the Glory of God; and darkneſs hath reigned from <hi>Adam</hi> until <hi>Moſes,</hi> and all Nations have been vailed under the clouds of the Night of Apoſtacy; although there hath been a pro<g ref="char:EOLhyphen"/>feſſion of God and Chriſt, and a form of Worſhip hath been ſet up, yet the Power of God hath been wanting, and the Life of Je<g ref="char:EOLhyphen"/>ſus
+<pb n="4" facs="tcp:58683:3"/>Chriſt hath not been known amongſt them; ſuch have had the <hi>Form of Godlineſs,</hi> but have denied the <hi>Power of God,</hi> which maketh able to overcome all things contrary unto God: But the reaſon why the Power of God hath not been known, to the overcoming of Sin and Uncleaneſs amongſt Profeſſors, they have not been in that in which Power is given from God, and ſo their Faith hath not been wrought by that Power which raiſed up Jeſus from the dead, and exalted him on the top of all Principalities and Powers, and Spiritual wickedneſs in high places; ſo the ſame Eternal Power which brought up Jeſus out of the Grave, the ſame Power all muſt feel to work effectually for the raiſing up and quickning of the ſoul which hath been dead; and as the Spirit quickeneth and raiſeth to Life, ſo cometh the ſoul to live in God, and to be upheld by the ſame Word of his Power; ſo that Word giveth Life. All are to come unto the Word, which <hi>is near, in the heart, and in the mouth: this is the Word of Faith, which we preach;</hi> the Word which created all things in the beginning. And <hi>the Word is Light, and in it is the life of men: the ſame Word was in the begin<g ref="char:EOLhyphen"/>ning with God, and God was the Word, and the Word became fleſh, and dwelt in the ſons of men; and they beheld the glory of it, as the Glory of the only begotten Son of God, full of Grace, and full of Truth.</hi> So they that were Saints indeed, who were born of the Word, who came to be ſanctified thereby, ſuch came to the purifying by Faith, to the waſhing of Regeneration, and to be renewed again by the renewing Power, into the Image and likeneſs of God. And all Profeſſors at this day muſt come unto the Corner-ſtone, to be fitted and ſquared thereby for the building up of the Spiritual houſe; and every ſtone of the building of God muſt be living, like unto the Corner-ſtone; and all muſt come unto the Light of the perfect day, that the perfection of Beauty they may come to behold, that the Glory of all Nations may ſhine amongſt you. So into the Power God is gathering, out of all Forms he is bring<g ref="char:EOLhyphen"/>ing into the life and ſubſtance of all Profeſſions: and this is the day wherein the cry of the Spirit of Life is gone forth into thy Street, O <hi>England,</hi> ſaying to thy Inhabitants, Prepare unto the Day of God which is dawned, the Light of which is riſing over the Nations, and the Bridegroom is come; therefore prepare a way: for this is the Voice that's gone forth, The Bridegroom is come, therefore make ready, trim your Lamps, and come away,
+<pb n="5" facs="tcp:58683:3"/>while there is a door of hope opened; ſtand not out, neither tar<g ref="char:EOLhyphen"/>ry behind in <hi>Sodom,</hi> leſt you be deſtroyed in her: for God will burn her walls with fire, and <hi>Babylons</hi> deſtruction is determined, and God is come down to confound her many Languages, her Builders and Daubers; God is bringing all to Truth in the <hi>inner parts,</hi> which is the <hi>one true Language</hi> which muſt remain for ever. And now is the Bridegroom's Voice heard in the Land of the li<g ref="char:EOLhyphen"/>ving, amongſt the Church of the firſt-born, who are come again out of <hi>Egypt,</hi> to walk in the Light of the Day of God: for now hath the Glory of all Nations appeared in the beauty of his Ho<g ref="char:EOLhyphen"/>lineſs, in excellency of his Brightneſs he is now ſhining forth un<g ref="char:EOLhyphen"/>to the Nations, and all that are ſaved muſt be gathered in unto the Light of the Covenant of Life, in which is perfect Peace, and Joy, and fellowſhip with the Father is known by all who dwell and walk in the Light; and here ſtands the Unity of the Saints in Light: But he that ſaith <hi>he hath fellowſhip with God, and walketh in darkneſs, he is a lyar, and the Truth is not in him: but if we walk in the Light, as he is in the Light, then have we fellowſhip one with another, and the Blood of Jeſus Chriſt clenſeth from all ſin.</hi> So people muſt come into that which clenſeth, which purifieth, which pur<g ref="char:EOLhyphen"/>geth from all droſs: and this is known in the Faith of Gods Co<g ref="char:EOLhyphen"/>venant, which Faith giveth dominion: <hi>And here is our victory, even our Faith, by which we overcome the world.</hi> But they that are out of this Faith, they want power, and ſuch are complainers; but he that cometh to the Light, and therein doth believe, he ſhall have the Light of Life: for unto him is given all Power of the Father, to rule and to govern both things in Heaven, and things in Earth, and all things, and every knee ſhall bow before him; and the Day of his Reign is come, and his Government is known that it is upon his ſhoulders; So all that profeſs Chriſt, muſt come to know his Power to create them anew into his hea<g ref="char:EOLhyphen"/>venly Image and Divine Majeſty, and all muſt know the New<g ref="char:EOLhyphen"/>creation of God brought forth in them, according to his Pro<g ref="char:EOLhyphen"/>miſe, who ſaith, <hi>I will create new Heavens, and a new Earth, where<g ref="char:EOLhyphen"/>in ſhall dwell Righteouſneſs, and Peace, and Joy;</hi> and all muſt know the ſhakings of the former Heavens at the paſſing away of them, with their noiſes, and with great trembling and fear, and aſtoniſh<g ref="char:EOLhyphen"/>ment of heart; for the Walls of <hi>Jerico,</hi> and the old Buildings of <hi>Babylon</hi> muſt be <hi>thundred down</hi> by threſhing Inſtruments of the
+<pb n="6" facs="tcp:58683:4"/>Lord God Almighty, whoſe two-edged Sword is in his hand, by which he is threſhing and cutting down the Mountains, in which there hath been a Worſhip pretended unto God; but now the Day is come wherein our God will not be worſhipped in the Mountains, neither at <hi>Jeruſalem,</hi> but he will now be worſhipped <hi>in the Spirit</hi> and <hi>in the Truth,</hi> and ſuch Worſhippers is the Lord our God ſeeking; for the Spirit of Truth is come, according to the Promiſe of the Father, which hath alſo appeared unto us, by which we know the Son of God is riſen, and this we are faithful Witneſſes of his Reſurrection, who is aſcended up on high, and hath given gifts unto men; and therefore we preach Chriſt and his Reſurrection unto all, for he is come again with great Power, and in great Glory; and he hath given us an underſtanding, by which we know him that is true, and ſo the Foundation of God, we preach unto the World, which is <hi>JESUS CHRIST the Son of the living God;</hi> and no other foundation can any man lay than that which is already laid in people: for the Light hath appeared in the hearts of all, the Grace of God which bringeth Salvation (I ſay) hath appeared unto all men: and ſo it is no new thing to preach the Foundation of God, the Light of the World, the Life of Men, the Son of the living God, which hath enlightened every man that cometh into the world: ſo the ſame Foundation which the Prophets preached, who received the Power of God, who were anointed with the holy Anointing from above; theſe preached what from God they had received; ſo they preached the Reſurrection and the Life, and they preached Chriſt <hi>revealed in them;</hi> and ſo from the Revelations of God they ſpake from the movings of his holy Spirit: but all, before they come unto this, muſt come unto ſilence, and ſo learn of Chriſt, the husband, the head of the Woman, which is to keep ſilence: in the Church all fleſh ought to be ſilenc'd, but he or ſhe that is born of God, who are Members of the ſame Body which was raiſed by the eter<g ref="char:EOLhyphen"/>nal Power of the Father, ſuch as are Witneſſes of his Reſur<g ref="char:EOLhyphen"/>rection, in whom he is come; and as this Prophet ſpeaketh, here the Man ſpeaketh, which is Chriſt in all: but all who ſpeak, and not from the Power of the living God, ought to keep ſilence in the Church of Chriſt: But now is the Lord God bringing of a People unto the Everlaſting Teacher, the High-Prieſt, the Leader of <hi>Iſrael,</hi> the Light, the Salvation of God unto the ends of the
+<pb n="7" facs="tcp:58683:4"/>Earth: So the People of the Lord are now come to be taught of the Lord, and in Righteouſneſs they come to be eſtabliſhed. So unto the holy Anointing which is able to teach and to direct in the way to everlaſting Life, unto the ſame we direct all people <hi>now,</hi> as the Prophets did, in whom the Anointing dwelt plen<g ref="char:EOLhyphen"/>tifully; and ſo let the Word of Life dwell plentifully in all who come to learn of the Father, who come to obey the Truth, the Goſpel of Chriſt, <hi>the Power of God to Salvation:</hi> And now is the Glory of all Nations riſen, and the Light of the <hi>Gentiles</hi> is come, and the Glory of the Day hath appeared, and God is bringing and gathering People into Covenant with him<g ref="char:EOLhyphen"/>ſelf: And this is his Covenant, the Light of his Son, which hath enlightened <hi>All Men,</hi> and God is bringing People into the Light, out of the Darkneſs into the Glory of the Day: <hi>For the day is come that it ſhall be no more ſaid, The Lord liveth that brought the Children of Iſrael out of the Land of</hi> Egypt; <hi>but it ſhall be ſaid, The Lord liveth that brought up the Seed of the houſe of Iſrael to reign on the tops of the Mountains.</hi> And this Day is God exalting the Kingdom of his Son in the hearts of the ſons of men: <hi>and that which we have heard from the beginning; that which we have looked upon with our eyes; that which our hands have handled of the Word of Life, of the ſame do we declare freely, that all may come freely, and drink, of the Fountain of Life, which is now ſet open for</hi> Judah <hi>and for</hi> Jeruſalem: and now the day is come wherein the Wells of Salvation overflow, and the Springs of the holy Foun<g ref="char:EOLhyphen"/>tain run freely: therefore all that are athirſt, come; <hi>for the Spi<g ref="char:EOLhyphen"/>rit ſaith, Come; and the Bride ſaith, Come:</hi> for the Feaſt of fat things is prepared, and the Supper of the great King is making ready, and the ſons and daughters of men are invited to the Mar<g ref="char:EOLhyphen"/>riage of the Lamb, which is now come: Therefore be awakened ye dead, Ariſe, ſhake off the duſt of the Earth, and Chriſt ſhall give you Life. And this is the Day of God's Viſitation, and of free Love and everlaſting Conſolation, wherein Salvation is founded unto the Inhabitants of the Earth.</p>
+            <lg>
+               <l>
+                  <hi>Great is the Sea, whoſe bleſſed bounds are Love,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Compaſſions unto her own doth move.</hi>
+               </l>
+               <l>
+                  <hi>Great is his Love that now hath led us home,</hi>
+               </l>
+               <l>
+                  <hi>To ſit again upon our Father's Throne.</hi>
+               </l>
+            </lg>
+            <pb n="8" facs="tcp:58683:5"/>
+            <lg>
+               <l>
+                  <hi>Great is the Light by which now we do ſee</hi>
+               </l>
+               <l>
+                  <hi>The Glory of our Father</hi> Abrah'ms <hi>day:</hi>
+               </l>
+               <l>
+                  <hi>Great is the Love by which we overcome;</hi>
+               </l>
+               <l>
+                  <hi>Our Vict'ry ſtands in the beloved Son.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And in the Love and Fulneſs of his Power</hi>
+               </l>
+               <l>
+                  <hi>In us, is ſhining in this glorious hour.</hi>
+               </l>
+               <l>
+                  <hi>And all muſt come within unto the Light,</hi>
+               </l>
+               <l>
+                  <hi>T'live in that Pow'r, which gives the blind their ſight.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Yea, all muſt come to the Eternal Love,</hi>
+               </l>
+               <l>
+                  <hi>And by it muſt be joyn'd to God above.</hi>
+               </l>
+               <l>
+                  <hi>And by the ſame Love all muſt be led home</hi>
+               </l>
+               <l>
+                  <hi>To ſit again on</hi> David's <hi>holy Throne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And in this Day of Light is ſhining forth</hi>
+               </l>
+               <l>
+                  <hi>God's Cov'nant, which is his performed Oath,</hi>
+               </l>
+               <l>
+                  <hi>Which is his Promiſe; and is come again</hi>
+               </l>
+               <l>
+                  <hi>For to redeem from ſorrow, and from pain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And to ſet free all ſuch as do believe,</hi>
+               </l>
+               <l>
+                  <hi>Who his Light and his Love come to receive:</hi>
+               </l>
+               <l>
+                  <hi>Such by the Truth do come to be ſet free,</hi>
+               </l>
+               <l>
+                  <hi>Who dwell in Pow'r that works effectuallie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thoſe he redeems, and bringeth from the grave</hi>
+               </l>
+               <l>
+                  <hi>All ſuch, who by his Pow'r an Int'reſt have.</hi>
+               </l>
+               <l>
+                  <hi>This quickeneth, and bringeth up again</hi>
+               </l>
+               <l>
+                  <hi>The Soul of man that hath been dead and ſlain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>All muſt come to the Light o'th holy Day,</hi>
+               </l>
+               <l>
+                  <hi>To know the Life that leads the narrow way,</hi>
+               </l>
+               <l>
+                  <hi>Unto the Reſt, the Kingdom, and the Crown,</hi>
+               </l>
+               <l>
+                  <hi>And in God's Reſt at laſt for to lie down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And the Way is the</hi> Light, <hi>the</hi> Life, <hi>the</hi> Truth,</l>
+               <l>
+                  <hi>The ſame will lead to thy Creator in thy dayes of youth.</hi>
+               </l>
+               <l>
+                  <hi>And all muſt come unto the Light,</hi>
+               </l>
+               <l>
+                  <hi>To be led in the Way that's right.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And all muſt come unto the bleſſed Seed,</hi>
+               </l>
+               <l>
+                  <hi>By which God's My'ſtries they muſt come to reade<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>And this is made known in the greateſt deep,</hi>
+               </l>
+               <l>
+                  <hi>Where his Blood is drink, and his Life is meat,</hi>
+               </l>
+            </lg>
+            <pb n="9" facs="tcp:58683:5"/>
+            <lg>
+               <l>
+                  <hi>On which the living do delight to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </l>
+               <l>
+                  <hi>Which is their heav'nly Bre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in time of need.</hi>
+               </l>
+               <l>
+                  <hi>And all who feed on this ſhall never hung<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> more;</hi>
+               </l>
+               <l>
+                  <hi>For them the Cup of Bleſſing is layed up in ſtore.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And in CHRIST the Head is the hidden Life</hi>
+               </l>
+               <l>
+                  <hi>Of all the Brides Children, who are the Lamb's Wife:</hi>
+               </l>
+               <l>
+                  <hi>Who are now come to be redeem'd again;</hi>
+               </l>
+               <l>
+                  <hi>And in the Lamb's Pow'r ov'r the World do R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ign,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>As Conquerors over both Hell and Death:</hi>
+               </l>
+               <l>
+                  <hi>This in the Seed is known, born of the Royal Birth;</hi>
+               </l>
+               <l>
+                  <hi>By which all Sions Children are ſet free,</hi>
+               </l>
+               <l>
+                  <hi>Sounding forth Praiſe in this Gods Holy Day.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And this my Solutation is unto the Seed in all,</hi>
+               </l>
+               <l>
+                  <hi>Which yet remain in Darkneſs, Death and Fall.</hi>
+               </l>
+               <l>
+                  <hi>And God is come his Seed for to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>deem,</hi>
+               </l>
+               <l>
+                  <hi>And bringing it to light that's glory may be ſeen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And the worm</hi> Jacob, <hi>who hath been under all,</hi>
+               </l>
+               <l>
+                  <hi>Shall now ariſe, triumphing over Death and Fall.</hi>
+               </l>
+               <l>
+                  <hi>The ſecond Adam that by tranſgreſſion hath been ſlain,</hi>
+               </l>
+               <l>
+                  <hi>Now by Gods quickening Power ſhall be reviv'd again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And by our God's moſt holy living breath</hi>
+               </l>
+               <l>
+                  <hi>All ſouls ſhall riſe that have been under death,</hi>
+               </l>
+               <l>
+                  <hi>And at God's Voice open the graves ſhall fly</hi>
+               </l>
+               <l>
+                  <hi>When his Trump blows from's holy Majeſty.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>H<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> his Pow'r the Cords of Sin ſhall break;</hi>
+               </l>
+               <l>
+                  <hi>Nor Death nor Hell no more the Seed ſhall keep</hi>
+               </l>
+               <l>
+                  <hi>Under; but it ſhall riſe it Majeſtie,</hi>
+               </l>
+               <l>
+                  <hi>Reigning in Glory on his Mountain hie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ah! we are come unto the Holy Day,</hi>
+               </l>
+               <l>
+                  <hi>Where th'Scepter of Sions King now beareth ſway;</hi>
+               </l>
+               <l>
+                  <hi>Unto whoſe Government all Kings moſt bend,</hi>
+               </l>
+               <l>
+                  <hi>When in his Glory from Heaven he doth deſcend.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then all their Crowns muſt cast before his Throne:</hi>
+               </l>
+               <l>
+                  <hi>For he will reign on Earth as King alone.</hi>
+               </l>
+               <l>
+                  <hi>Chriſt's Government on Earth is now begun,</hi>
+               </l>
+               <l>
+                  <hi>Ov'r all he'l reign; and to that end is come.</hi>
+               </l>
+            </lg>
+            <pb n="10" facs="tcp:58683:6"/>
+            <lg>
+               <l>
+                  <hi>Glorious is that Power that redeems from ſinning<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>That reſtores man, even <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in the beginning:</hi>
+               </l>
+               <l>
+                  <hi>Glorious is that Life which reigneth over all,</hi>
+               </l>
+               <l>
+                  <hi>Which conq<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s Death and Hell, and brings from th'Fall.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <head>The Seed is bleſt, and its Reſt, is in God's own Breaſt.</head>
+               <p>A Tender Viſitation from the Fountain of Love, ſent unto all the Suffering-Seed, from the melting bowels of compaſſions from the Father of Life, unto all the Choſen, Called and Elect; who are this day found faithful followers of the Lamb thorow the Tribulation, and ſo through the waſhing of Regeneration; who by ſuffering come attain the Victory, which ſtands alone in the Faith, which purifies and makes white. And now is the Day come, wherein a clear and through-ſeparation will be made betwixt the faithful Followers of the Lamb, from them that back<g ref="char:EOLhyphen"/>ſlide, and have a name to live, and are dead, as to the Life of God. And although there were many that came out of the Land of <hi>Egypt,</hi> who were alſo Followers of the Lamb for a time, whoſe eyes alſo beheld the miracles, and wonderful works which Chriſt did: yet, after this, many returned, inſomuch that Chriſt ſaid unto his Diſciples, when he looked back and beheld the little number, <hi>Will ye alſo forſake me?</hi> this was the Anſwer of the faith<g ref="char:EOLhyphen"/>ful Followers; Nay, <hi>whither ſhall we go? Thou haſt the Word of Eternal Life.</hi> But many took offence at him, and ſo in the Win<g ref="char:EOLhyphen"/>ter fled from him, and alſo denied him, although they came once to receive the gift of God, and to taſt of the powers of the world to come; yet ſuch as kept not their firſt eſtate, who dwelt not in their firſt love, became like unto the Angels th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <hi>who were reſerved under the chains of darkneſs unto the Judgment of the great Day.</hi> Therefore Brethren, and Beloved in the bowels of the Lord Jeſus, is this tender Viſitation ſent unto you, and a<g ref="char:EOLhyphen"/>mongſt you all, who at this day profeſs the Truth of the living God, for the ſtirring up of your pure minds, to be more diligent and more faithful in watching alwayes, and waiting for the ap<g ref="char:EOLhyphen"/>pearance and coming of the Lord Jeſus Chriſt, <hi>who will appear the ſecond time without ſin unto Salvation: whoſe Reward is with him; and he that ſhall come, will come, and will not tarry:</hi> And he will reward all the Faithful for their Faithfulneſs, a thouſand fold in this life, and Eternal Life for ever. So bleſſed for ever are all
+<pb n="11" facs="tcp:58683:6"/>the honeſt-hearted, who ſingly wait for the appearance of the Bridegroom. Such are the Virgins that ſlumber not, whoſe Oyl is burning; and ſo if he ſhould come at midnight, ſuch will be found ready to enter within the Gates of Paradiſe.</p>
+               <p>But verily, this I have to declare from the Lord God of Life, who hath ſealed it. It will be hard for many to enter at this day, who once had a taſt of the precious Truth, who are now growing cold; ſuch will be ſpued out in the Day of the Lord. But this I have to ſay for your encouragement, who are faith<g ref="char:EOLhyphen"/>ful and ſingle-hearted, The Lord God everlaſting will reward you the doers of his Will, and your reward will be Everlaſting Joy, Everlaſting-Peace and Conſolation and Joy ſhall be heaped upon Joy, and Glory upon Glory ſhall be revealed in the habi<g ref="char:EOLhyphen"/>tations of the Righteous. What ſhall I ſay to expreſs the end<g ref="char:EOLhyphen"/>leſs Love of the Father? whoſe Fulneſs is come, whoſe Foun<g ref="char:EOLhyphen"/>tain is open? how he is become a place of broad Rivers. Bleſ<g ref="char:EOLhyphen"/>ſed be the Day that now is dawned, the Day which <hi>Abraham</hi> ſaw is now come unto <hi>Abraham</hi>'s Seed, and rejoycing is known by the Redeemed, who are returning again unto <hi>Sion</hi> with ſongs of Re<g ref="char:EOLhyphen"/>joycing and everlaſting Joy upon their heads; ſuch know the New Songs who are come unto the Day; ſuch have entred into the City where the Lamb is the light thereof, where Praiſes are returned to God who lives for ever; and unto the Lamb, who is worthy to reign over all: To whom be <hi>Hallelujahs</hi> given, Honour and Praiſe world without end.</p>
+               <p>So this is my Salutation unto the <hi>Suffering-Seed,</hi> who am a Sufferer for the Name of <hi>JESUS,</hi> and for the Teſtimony of his Truth.</p>
+               <closer>
+                  <signed>Dorothy White.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>To all the Elect of God, who are called and choſen, faithful and true: Greetings of Peace, Mercy and Love, from the Father, is ſent unto all the Upright in heart.</head>
+               <p>THe Reſt; the Life, the Power, the Fulneſs of all Profeſſions, wait all to poſſeſs the <hi>very ſubſtance</hi> and the end of all De<g ref="char:EOLhyphen"/>clarations, <hi>the Heavenly Life of God made manifeſt in your mortal
+<pb n="12" facs="tcp:58683:7" rendition="simple:additions"/>fleſh:</hi> And ſo <hi>let <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord of his Grace dwell plentifully in you, that ye may behold the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ory thereof, as the Glory of the only begotten of the Father, full of Grace and Truth;</hi> that ye may all be overſhadowed with his beautiful Brighteneſs, ſo that ye may be filled with the Glory of his Majeſty, ſo that ye may come to ſay in your hearts, Oh! how goodly are thy Tents, O Seed of <hi>Jacob!</hi> how glorious, how excellent is the Beauty of the Habitation of <hi>Iſraels God!</hi> who is now broken forth, as the Sun in the morning, whoſe ſhining is clearer and clearer unto the perfect day. And now God is bringing forth the <hi>perfection of Beauty</hi> in and among his <hi>choſen Ge<g ref="char:EOLhyphen"/>neration,</hi> and He ſhall become the Glory of all Nations, a wiſe Counſellor, a King and Law-giver, a Royal Prieſthood, the un<g ref="char:EOLhyphen"/>changeable Prophet. And ſo Friends, and Brethren, in the fel<g ref="char:EOLhyphen"/>lowſhip of the Goſpel of Eternal Peace, Joy and Unity in the holy Spirit of Love and Life, Solace your ſelves in the Grace and Faith which giveth the perfect knowledge of God in the face of his Son, in whom ye have believed, in whom ſtandeth the New Covenant, which God hath made with the Seed of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> whom he is now calling and gathering from the ends of the Earth; and this is his Covenant with him, even <hi>the ſure Mercies of David,</hi> which are renewed through the Seed of Promiſe; and this Seed God is raiſing, which ſhall inherit his Bleſſing and Mer<g ref="char:EOLhyphen"/>cy for evermore. So all you dear and wel-beloved Children of your Father <hi>Abraham,</hi> who was bleſſed, whoſe Faith juſtified him, and was accounted unto him for Righteouſneſs: So grow ye in the ſame word of Faith, until God perfect his own Image in you: for this is the work of our Father in this the day of his Power, and of his glorious Appearance, to bring forth his Chil<g ref="char:EOLhyphen"/>dren after his own Likeneſs and Image, Form and Beauty; and ſo the Followers of the Lamb muſt bear the Mark of the Lamb, and by it they muſt be known. So in the Unity of the holy Spirit of Peace, feel the Bleſſings daily multiplied from the God of Mercies and tender Compaſſions, whoſe Bowels of Love yearn unto his own. And ſo my dear and beloved Friends, in the Eternal Welfare of God, I bid you all <hi>Farewel.</hi>
+               </p>
+               <closer>
+                  <signed>D. W.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:58683:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
